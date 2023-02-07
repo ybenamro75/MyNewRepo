@@ -1,5 +1,5 @@
 # MyNewRepo
-La commande terrafom graph nous donne une idée précise sur les dépendences entres les ressources & variables 
+La commande terrafom graph nous donne une idée précise sur les dépendences -> entres les ressources & variables 
 
 digraph {
 	compound = "true"
